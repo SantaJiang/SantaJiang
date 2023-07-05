@@ -31,6 +31,12 @@
       <td>Qt的Ayu适配主题</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/SantaJiang/AutoPower"><b>AutoPower</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SantaJiang/AutoPower?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SantaJiang/AutoPower?style=flat-square&labelColor=343b41"/></td>
+      <td>很好用的自动关机软件</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/SantaJiang/GetLinuxAppsInfo"><b>GetLinuxAppsInfo</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SantaJiang/GetLinuxAppsInfo?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SantaJiang/GetLinuxAppsInfo?style=flat-square&labelColor=343b41"/></td>
